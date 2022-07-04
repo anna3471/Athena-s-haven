@@ -84,6 +84,7 @@ article:hover {
     color: black;
     font-size: 20px;
     padding-top: 30px;
+    margin-top: 30px;
 }
 .aa {
     text-decoration: none;
@@ -103,4 +104,9 @@ footer {
     padding-left: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+.ff {
+    color: white;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
 }
