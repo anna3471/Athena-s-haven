@@ -73,10 +73,11 @@ article {
     padding-left: 10px;
     padding-right: 10px;
     margin-left: 60px;
-    box-shadow: 0 0 10px 5px grey;
+    ox-shadow: 0 0 10px 5px grey;
 }
 .popular {
     background-color: white;
+    margin-bottom: 20px;
 }
 article:hover {
     color: white;
@@ -111,4 +112,11 @@ footer {
     color: white;
     margin-bottom: 5px;
     padding-bottom: 5px;
+}
+article:hover {
+        box-shadow: 0 0 10px 5px grey;
+
+}
+.vvv {
+    margin-top: 30px;
 }
