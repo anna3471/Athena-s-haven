@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
 }
 header {
-    height: 90px;
+    height: 100px;
     ackground-image: linear-gradient(to right, #C71616, #0C6D27, #E8A700, #C71616);
 }
 .hh {
@@ -47,19 +47,19 @@ a:hover {
 h2 {
     font-size: 30px;
     margin-left: 50px;
-    margin-top: 30px;
-    padding-top: 30px;
+    margin-top: 40px;
+    padding-top: 40px;
 }
 ul {
     margin-left: 20px;
-    padding-bottom: 30px;
+    padding-bottom: 40px;
 }
 .interes {
     background-color: #AE0101;
     color: white;
     text-align: center;
     padding: 20px;
-
+    font-size: 18px;
 }
 p {
     text-aign: center;
@@ -73,7 +73,7 @@ article {
     padding-left: 10px;
     padding-right: 10px;
     margin-left: 60px;
-    box-shadow: 0 0 10px 5px black;
+    box-shadow: 0 0 10px 5px grey;
 }
 .popular {
     background-color: white;
@@ -84,8 +84,8 @@ article:hover {
 .video {
     color: black;
     font-size: 20px;
-    padding-top: 30px;
-    margin-top: 30px;
+    padding-top: 60px;
+    margin-top: 70px;
 }
 .aa {
     text-decoration: none;
