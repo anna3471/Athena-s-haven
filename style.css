@@ -19,7 +19,7 @@ header {
 }
 a {
     text-decoration: none;
-    margin-right: 280px;
+    margin-right: 200px;
     text-align: center;
     background-color: #0C6D27;
     color: black;
@@ -70,7 +70,7 @@ article {
     padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    margin-left: 40px;
+    margin-left: 60px;
 }
 .popular {
     background-color: white;
