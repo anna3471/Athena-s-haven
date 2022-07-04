@@ -19,7 +19,7 @@ header {
 }
 a {
     text-decoration: none;
-    margin-right: 200px;
+    margin-right: 100px;
     text-align: center;
     background-color: #0C6D27;
     color: black;
@@ -27,7 +27,9 @@ a {
     margin-top: 80px;
 }
 nav {
-    margin-top: 30px;
+    margin-top: 20px;
+    text-align: center;
+
 }
 h1 {
     text-align: center;
@@ -77,4 +79,28 @@ article {
 }
 article:hover {
     color: white;
+}
+.video {
+    color: black;
+    font-size: 20px;
+    padding-top: 30px;
+}
+.aa {
+    text-decoration: none;
+    margin-right: 0px;
+    text-align: center;
+    background-color: #0C6D27;
+    color: black;
+    padding: 10px;
+    margin-top: 80px;
+}
+iframe {
+    margin-top: 20px;
+}
+footer {
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
