@@ -99,7 +99,7 @@ article:hover {
 }
 iframe {
     margin-top: 20px;
-    float: left;
+ 
 }
 footer {
     background-color: black;
@@ -140,7 +140,7 @@ article:hover {
 .image {
     background-color: white;
     color: #E8A700;
-    float: left;
+    
 }
 .eda {
     color: #004614;
