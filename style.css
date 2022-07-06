@@ -99,6 +99,7 @@ article:hover {
 }
 iframe {
     margin-top: 20px;
+    float: left;
 }
 footer {
     background-color: black;
@@ -107,6 +108,7 @@ footer {
     padding-top: 20px;
     padding-bottom: 20px;
     margin-top: 20px;
+    
 }
 .ff {
     color: white;
@@ -119,4 +121,27 @@ article:hover {
 }
 .vvv {
     margin-top: 30px;
+}
+.im {
+     background-color: #AE0101;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
+.ah {
+    background-color: white;
+    color: black;
+    
+}
+.ah:hover {
+    color: black;
+}
+.image {
+    background-color: white;
+    color: #E8A700;
+    float: left;
+}
+.eda {
+    color: #004614;
 }
