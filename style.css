@@ -78,6 +78,7 @@ article {
 .popular {
     background-color: white;
     margin-bottom: 20px;
+    display: inline-block;
 }
 article:hover {
     color: white;
@@ -121,6 +122,9 @@ article:hover {
 }
 .vvv {
     margin-top: 30px;
+    display: inline-block;
+    padding-right: 30px;
+    margin-right: 40px;
 }
 .im {
      background-color: #AE0101;
@@ -140,8 +144,12 @@ article:hover {
 .image {
     background-color: white;
     color: #E8A700;
-    
+    display: inline-block;
 }
 .eda {
     color: #004614;
+}
+article:hover {
+    ransform: scale(1.5);
+    transition: 1s linear;
 }
