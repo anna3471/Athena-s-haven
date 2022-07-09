@@ -21,10 +21,11 @@ a {
     text-decoration: none;
     margin-right: 100px;
     text-align: center;
-    background-color: #0C6D27;
-    color: black;
-    padding: 10px;
+    ackground-color: #0C6D27;
+    color: #0C6D27;
+    padding: 7px;
     margin-top: 80px;
+    order: 3px solid #0C6D27;
 }
 nav {
     margin-top: 20px;
@@ -33,9 +34,11 @@ nav {
 }
 h1 {
     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 a:hover {
-    color: white;
+    color: black;
 }
 .spisok {
     color: white;
@@ -74,6 +77,7 @@ article {
     padding-right: 10px;
     margin-left: 60px;
     ox-shadow: 0 0 10px 5px grey;
+    width: 170px;
 }
 .popular {
     background-color: white;
@@ -93,9 +97,9 @@ article:hover {
     text-decoration: none;
     margin-right: 0px;
     text-align: center;
-    background-color: #0C6D27;
-    color: black;
-    padding: 10px;
+    ackground-color: #0C6D27;
+    color: #0C6D27;
+    padding: 7px;
     margin-top: 80px;
 }
 iframe {
