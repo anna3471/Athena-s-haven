@@ -83,6 +83,7 @@ article {
     background-color: white;
     margin-bottom: 20px;
     display: inline-block;
+    
 }
 article:hover {
     color: white;
@@ -109,7 +110,7 @@ iframe {
 }
 footer {
     background-color: black;
-    color: white;
+    color: black;
     padding-left: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -118,8 +119,8 @@ footer {
 }
 .ff {
     color: white;
-    margin-bottom: 5px;
-    padding-bottom: 5px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 article:hover {
         box-shadow: 0 0 10px 5px grey;
@@ -156,8 +157,14 @@ article:hover {
 }
 article:hover {
     ransform: scale(1.5);
-    transition: 1s linear;
+    transition: 0.5s linear;
 }
 h3 {
     padding-top: 5px;
+}
+.imgf {
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin: 0px;
 }
