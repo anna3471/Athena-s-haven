@@ -193,7 +193,7 @@ h3 {
   transition: all 0.3s ease-in-out 0s;
   position: fixed;
     top: 400px;
-    left: 850px;
+    left: 900px;
 }
 .button:hover, .button:focus {
   color: #313133;
