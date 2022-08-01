@@ -174,7 +174,7 @@ h3 {
     left: 650px;
 }
 .wrap {
-  margin-to: 150px;
+  margin-top: 0px;
   height: 100%;
   display: flex;
   align-items: center;
